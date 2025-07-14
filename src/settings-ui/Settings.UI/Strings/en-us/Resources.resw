@@ -5079,4 +5079,23 @@ To record a specific window, enter the hotkey with the Alt key in the opposite m
   <data name="GeneralPage_EnableViewDiagnosticDataText.Text" xml:space="preserve">
     <value>Stores diagnostic data locally in .xml format; folder may include .etl files as well. May use up 1 GB or more of disk space.</value>
   </data>
+  <data name="ClipPing.ModuleTitle" xml:space="preserve">
+    <value>ClipPing</value>
+    <comment>{Locked="ClipPing"}</comment>
+  </data>
+  <data name="Shell_ClipPing.Content" xml:space="preserve">
+    <value>ClipPing</value>
+    <comment>{Locked="ClipPing"}</comment>
+  </data>
+  <data name="ClipPing_EnableToggleControl_HeaderText.Header" xml:space="preserve">
+    <value>Enable ClipPing</value>
+    <comment>{Locked="ClipPing"}</comment>
+  </data>
+  <data name="ClipPing.ModuleDescription" xml:space="preserve">
+    <value>ClipPing.ModuleDescription</value>
+    <comment>ClipPing.ModuleDescription</comment>
+  </data>
+  <data name="ClipPing_ShortDescription" xml:space="preserve">
+    <value>Displays a visual notification whenever something is copied into the clipboard.</value>
+  </data>
 </root>
